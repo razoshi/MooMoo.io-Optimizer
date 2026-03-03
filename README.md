@@ -1,2 +1,2 @@
-# MooMoo.io-Optimizer-
+# MooMoo.io-Optimizer
 The best optimizer mod for moomoo.io. 
