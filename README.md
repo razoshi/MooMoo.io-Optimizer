@@ -6,3 +6,4 @@ The best optimizer mod for moomoo.io.
 </div>
 
 **Notice:** If you want to use it with other client, paste this code before original code of other client.
+**And always use:** // @run-at document-start
